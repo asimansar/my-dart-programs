@@ -1,2 +1,3 @@
 # my-dart-programs
-dart codelab
+dart codelab examples for study purpose
+
